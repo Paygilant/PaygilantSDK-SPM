@@ -10,8 +10,8 @@ let package = Package(
     targets: [
         .binaryTarget(
             name: "PaygilantSDK",
-            url: "https://paygilant-artifacts-eu-central-1.s3.eu-west-1.amazonaws.com/releases/4.1.9/PaygilantSDK.xcframework.zip",
-                        checksum: "9f4a8771dc15093b32c3a2c614430670b44c1912a0436574c5a87287edcd89be"
+            url: "https://paygilant-artifacts-eu-central-1.s3.eu-west-1.amazonaws.com/releases/4.1.10/PaygilantSDK.xcframework.zip",
+                        checksum: "b0e6828116877bfc2219a3d1c0d319dc635ce21b49eb6ab0c2c56b9478875bec"
         )
     ]
 )
