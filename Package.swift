@@ -11,7 +11,7 @@ let package = Package(
         .binaryTarget(
             name: "PaygilantSDK",
             url: "https://paygilant-artifacts-eu-central-1.s3.eu-west-1.amazonaws.com/releases/4.2.1-beta/PaygilantSDK.xcframework.zip",
-            checksum: "e1d295970130143aee634d939f56be0cf05ef5eb661001300c14889843236218"
+            checksum: "ecf1c41b0c1f6c2846621c15df647e3a6cd1d26a341084a7d2a0cba7bc07120a"
         )
     ]
 )
