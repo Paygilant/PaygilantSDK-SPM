@@ -3,7 +3,7 @@ import PackageDescription
 
 let package = Package(
     name: "PaygilantSDK",
-    platforms: [ .iOS(.v12) ],
+    platforms: [ .iOS(.v15) ],
     products: [
         .library(name: "PaygilantSDK", targets: ["PaygilantSDK"])
     ],
